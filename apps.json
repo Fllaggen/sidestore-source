@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.23",
+          "buildVersion": "23",
+          "date": "2026-11-05",
+          "localizedDescription": "カテゴリに「衣服・美容」を足しました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.23/Kakeibo.ipa",
+          "size": 936649,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.22",
           "buildVersion": "22",
           "date": "2026-11-05",
@@ -96,11 +105,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.22",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.22/Kakeibo.ipa",
-      "size": 935963,
+      "version": "1.23",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.23/Kakeibo.ipa",
+      "size": 936649,
       "versionDate": "2026-11-05",
-      "versionDescription": "編集画面を下にスワイプして閉じたら保存するようにしました"
+      "versionDescription": "カテゴリに「衣服・美容」を足しました"
     }
   ],
   "news": []
