@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.19",
+          "buildVersion": "19",
+          "date": "2026-11-05",
+          "localizedDescription": "未登録の利用から、レシートの写真を読み込んで登録できるようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.19/Kakeibo.ipa",
+          "size": 933346,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.18",
           "buildVersion": "18",
           "date": "2026-11-05",
@@ -60,11 +69,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.18",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.18/Kakeibo.ipa",
-      "size": 921267,
+      "version": "1.19",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.19/Kakeibo.ipa",
+      "size": 933346,
       "versionDate": "2026-11-05",
-      "versionDescription": "VISA DEBIT表記のレシートをクレカとして記録（デビットモードは利用通知メールで判定）"
+      "versionDescription": "未登録の利用から、レシートの写真を読み込んで登録できるようにしました"
     }
   ],
   "news": []
