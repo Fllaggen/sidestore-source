@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.20",
+          "buildVersion": "20",
+          "date": "2026-11-05",
+          "localizedDescription": "未登録の利用から、その場でレシートを撮影して登録できるようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.20/Kakeibo.ipa",
+          "size": 939249,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.19",
           "buildVersion": "19",
           "date": "2026-11-05",
@@ -69,11 +78,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.19",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.19/Kakeibo.ipa",
-      "size": 933346,
+      "version": "1.20",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.20/Kakeibo.ipa",
+      "size": 939249,
       "versionDate": "2026-11-05",
-      "versionDescription": "未登録の利用から、レシートの写真を読み込んで登録できるようにしました"
+      "versionDescription": "未登録の利用から、その場でレシートを撮影して登録できるようにしました"
     }
   ],
   "news": []
