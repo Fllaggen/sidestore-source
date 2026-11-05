@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.22",
+          "buildVersion": "22",
+          "date": "2026-11-05",
+          "localizedDescription": "編集画面を下にスワイプして閉じたら保存するようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.22/Kakeibo.ipa",
+          "size": 935963,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.21",
           "buildVersion": "21",
           "date": "2026-11-05",
@@ -87,11 +96,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.21",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.21/Kakeibo.ipa",
-      "size": 935385,
+      "version": "1.22",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.22/Kakeibo.ipa",
+      "size": 935963,
       "versionDate": "2026-11-05",
-      "versionDescription": "未登録の利用はカメラ画面で撮影。品目の負担を1タップで揃えられるように"
+      "versionDescription": "編集画面を下にスワイプして閉じたら保存するようにしました"
     }
   ],
   "news": []
