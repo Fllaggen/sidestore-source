@@ -13,14 +13,31 @@
       "tintColor": "#34C759",
       "category": "utilities",
       "appPermissions": {
-        "entitlements": ["com.apple.security.application-groups"],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSCameraUsageDescription": "レシートを撮影します",
           "NSPhotoLibraryUsageDescription": "レシートの写真を読み込みます",
           "NSPhotoLibraryAddUsageDescription": "撮影したレシートを写真アプリに保存します"
         }
       },
-      "versions": []
+      "versions": [
+        {
+          "version": "1.15",
+          "buildVersion": "15",
+          "date": "2026-11-05",
+          "localizedDescription": "外税レシートの品目を税込で記録・精算の内訳・Lunaでの読み取り",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.15/Kakeibo.ipa",
+          "size": 1207812,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "version": "1.15",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.15/Kakeibo.ipa",
+      "size": 1207812,
+      "versionDate": "2026-11-05",
+      "versionDescription": "外税レシートの品目を税込で記録・精算の内訳・Lunaでの読み取り"
     }
   ],
   "news": []
