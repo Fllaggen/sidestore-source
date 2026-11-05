@@ -1,0 +1,27 @@
+{
+  "name": "Fllaggen Apps",
+  "identifier": "io.github.fllaggen.sidestore-source",
+  "sourceURL": "https://raw.githubusercontent.com/Fllaggen/sidestore-source/main/apps.json",
+  "apps": [
+    {
+      "name": "家計簿",
+      "bundleIdentifier": "dev.kakeibo.app",
+      "developerName": "Fllaggen",
+      "subtitle": "レシートを撮るだけの家計簿",
+      "localizedDescription": "レシートを撮影すると店名・日付・品目・合計を読み取り、ふたりの精算まで計算する家計簿です。",
+      "iconURL": "https://raw.githubusercontent.com/Fllaggen/sidestore-source/main/kakeibo-icon.png",
+      "tintColor": "#34C759",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": ["com.apple.security.application-groups"],
+        "privacy": {
+          "NSCameraUsageDescription": "レシートを撮影します",
+          "NSPhotoLibraryUsageDescription": "レシートの写真を読み込みます",
+          "NSPhotoLibraryAddUsageDescription": "撮影したレシートを写真アプリに保存します"
+        }
+      },
+      "versions": []
+    }
+  ],
+  "news": []
+}
