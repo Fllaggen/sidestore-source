@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.24",
+          "buildVersion": "24",
+          "date": "2026-11-05",
+          "localizedDescription": "カテゴリ「衣服・美容」を「衣服」と「美容」に分けました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.24/Kakeibo.ipa",
+          "size": 938013,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.23",
           "buildVersion": "23",
           "date": "2026-11-05",
@@ -105,11 +114,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.23",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.23/Kakeibo.ipa",
-      "size": 936649,
+      "version": "1.24",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.24/Kakeibo.ipa",
+      "size": 938013,
       "versionDate": "2026-11-05",
-      "versionDescription": "カテゴリに「衣服・美容」を足しました"
+      "versionDescription": "カテゴリ「衣服・美容」を「衣服」と「美容」に分けました"
     }
   ],
   "news": []
