@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.17",
+          "buildVersion": "17",
+          "date": "2026-11-05",
+          "localizedDescription": "履歴を時刻順（レシート→メール→記録の時刻）にも並べられるようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.17/Kakeibo.ipa",
+          "size": 917957,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.16",
           "buildVersion": "16",
           "date": "2026-11-05",
@@ -42,11 +51,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.16",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.16/Kakeibo.ipa",
-      "size": 901461,
+      "version": "1.17",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.17/Kakeibo.ipa",
+      "size": 917957,
       "versionDate": "2026-11-05",
-      "versionDescription": "未登録の利用：カードの利用通知メールから、まだ登録していない支出を出します"
+      "versionDescription": "履歴を時刻順（レシート→メール→記録の時刻）にも並べられるようにしました"
     }
   ],
   "news": []
