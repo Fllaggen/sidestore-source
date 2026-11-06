@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.25",
+          "buildVersion": "25",
+          "date": "2026-11-06",
+          "localizedDescription": "未登録の利用が、別の日の同額の支出で隠れていたのを直しました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.25/Kakeibo.ipa",
+          "size": 941778,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.24",
           "buildVersion": "24",
           "date": "2026-11-05",
@@ -114,11 +123,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.24",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.24/Kakeibo.ipa",
-      "size": 938013,
-      "versionDate": "2026-11-05",
-      "versionDescription": "カテゴリ「衣服・美容」を「衣服」と「美容」に分けました"
+      "version": "1.25",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.25/Kakeibo.ipa",
+      "size": 941778,
+      "versionDate": "2026-11-06",
+      "versionDescription": "未登録の利用が、別の日の同額の支出で隠れていたのを直しました"
     }
   ],
   "news": []
