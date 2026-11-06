@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.26",
+          "buildVersion": "26",
+          "date": "2026-11-06",
+          "localizedDescription": "画面を整理しました（未登録の利用はカメラ画面の上に、履歴・入力・設定をすっきり）",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.26/Kakeibo.ipa",
+          "size": 960970,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.25",
           "buildVersion": "25",
           "date": "2026-11-06",
@@ -123,11 +132,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.25",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.25/Kakeibo.ipa",
-      "size": 941778,
+      "version": "1.26",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.26/Kakeibo.ipa",
+      "size": 960970,
       "versionDate": "2026-11-06",
-      "versionDescription": "未登録の利用が、別の日の同額の支出で隠れていたのを直しました"
+      "versionDescription": "画面を整理しました（未登録の利用はカメラ画面の上に、履歴・入力・設定をすっきり）"
     }
   ],
   "news": []
