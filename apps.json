@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.28",
+          "buildVersion": "28",
+          "date": "2026-11-07",
+          "localizedDescription": "グラフの内訳・値引きの反映・外貨（USD）の利用通知に対応しました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.28/Kakeibo.ipa",
+          "size": 981383,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.27",
           "buildVersion": "27",
           "date": "2026-11-06",
@@ -141,11 +150,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.27",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.27/Kakeibo.ipa",
-      "size": 962467,
-      "versionDate": "2026-11-06",
-      "versionDescription": "画面の説明文を減らし、すっきりさせました"
+      "version": "1.28",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.28/Kakeibo.ipa",
+      "size": 981383,
+      "versionDate": "2026-11-07",
+      "versionDescription": "グラフの内訳・値引きの反映・外貨（USD）の利用通知に対応しました"
     }
   ],
   "news": []
