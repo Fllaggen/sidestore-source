@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.29",
+          "buildVersion": "29",
+          "date": "2026-11-07",
+          "localizedDescription": "選んだフォルダに家計簿を自動でバックアップできるようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.29/Kakeibo.ipa",
+          "size": 1011943,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.28",
           "buildVersion": "28",
           "date": "2026-11-07",
@@ -150,11 +159,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.28",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.28/Kakeibo.ipa",
-      "size": 981383,
+      "version": "1.29",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.29/Kakeibo.ipa",
+      "size": 1011943,
       "versionDate": "2026-11-07",
-      "versionDescription": "グラフの内訳・値引きの反映・外貨（USD）の利用通知に対応しました"
+      "versionDescription": "選んだフォルダに家計簿を自動でバックアップできるようにしました"
     }
   ],
   "news": []
