@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.33",
+          "buildVersion": "33",
+          "date": "2026-11-07",
+          "localizedDescription": "精算を文で送れるようにし、精算の記録を残すようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.33/Kakeibo.ipa",
+          "size": 994688,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.32",
           "buildVersion": "32",
           "date": "2026-11-07",
@@ -186,11 +195,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.32",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.32/Kakeibo.ipa",
-      "size": 986251,
+      "version": "1.33",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.33/Kakeibo.ipa",
+      "size": 994688,
       "versionDate": "2026-11-07",
-      "versionDescription": "使える残り額を出し、ウィジェットが使えるように直しました"
+      "versionDescription": "精算を文で送れるようにし、精算の記録を残すようにしました"
     }
   ],
   "news": []
