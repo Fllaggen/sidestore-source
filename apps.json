@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.31",
+          "buildVersion": "31",
+          "date": "2026-11-07",
+          "localizedDescription": "予定の支出と毎月の固定費を入れられるようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.31/Kakeibo.ipa",
+          "size": 974093,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.30",
           "buildVersion": "30",
           "date": "2026-11-07",
@@ -168,11 +177,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.30",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.30/Kakeibo.ipa",
-      "size": 953857,
+      "version": "1.31",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.31/Kakeibo.ipa",
+      "size": 974093,
       "versionDate": "2026-11-07",
-      "versionDescription": "だれの分を店ごとに自動で選び、二重登録に気づけるようにしました"
+      "versionDescription": "予定の支出と毎月の固定費を入れられるようにしました"
     }
   ],
   "news": []
