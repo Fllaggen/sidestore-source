@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.30",
+          "buildVersion": "30",
+          "date": "2026-11-07",
+          "localizedDescription": "だれの分を店ごとに自動で選び、二重登録に気づけるようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.30/Kakeibo.ipa",
+          "size": 953857,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.29",
           "buildVersion": "29",
           "date": "2026-11-07",
@@ -159,11 +168,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.29",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.29/Kakeibo.ipa",
-      "size": 1011943,
+      "version": "1.30",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.30/Kakeibo.ipa",
+      "size": 953857,
       "versionDate": "2026-11-07",
-      "versionDescription": "選んだフォルダに家計簿を自動でバックアップできるようにしました"
+      "versionDescription": "だれの分を店ごとに自動で選び、二重登録に気づけるようにしました"
     }
   ],
   "news": []
