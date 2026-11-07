@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.37",
+          "buildVersion": "37",
+          "date": "2026-11-07",
+          "localizedDescription": "履歴の予定の欄を一番下に移しました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.37/Kakeibo.ipa",
+          "size": 1020212,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.36",
           "buildVersion": "36",
           "date": "2026-11-07",
@@ -222,11 +231,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.36",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.36/Kakeibo.ipa",
-      "size": 1020247,
+      "version": "1.37",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.37/Kakeibo.ipa",
+      "size": 1020212,
       "versionDate": "2026-11-07",
-      "versionDescription": "アプリを開いていなくても、未登録の利用を通知で知らせます"
+      "versionDescription": "履歴の予定の欄を一番下に移しました"
     }
   ],
   "news": []
