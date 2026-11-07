@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.36",
+          "buildVersion": "36",
+          "date": "2026-11-07",
+          "localizedDescription": "アプリを開いていなくても、未登録の利用を通知で知らせます",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.36/Kakeibo.ipa",
+          "size": 1020247,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.35",
           "buildVersion": "35",
           "date": "2026-11-07",
@@ -213,11 +222,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.35",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.35/Kakeibo.ipa",
-      "size": 1009068,
+      "version": "1.36",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.36/Kakeibo.ipa",
+      "size": 1020247,
       "versionDate": "2026-11-07",
-      "versionDescription": "ショートカットから支出を記録できるようにしました（Apple Payの取引オートメーション用）"
+      "versionDescription": "アプリを開いていなくても、未登録の利用を通知で知らせます"
     }
   ],
   "news": []
