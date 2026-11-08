@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.38",
+          "buildVersion": "38",
+          "date": "2026-11-08",
+          "localizedDescription": "月の予算、ふたり合計、カテゴリの追加と名前の変更を足しました。バックアップから戻すとデータが消える不具合と、レシートの読み違いを直しました。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.38/Kakeibo.ipa",
+          "size": 1073351,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.37",
           "buildVersion": "37",
           "date": "2026-11-07",
@@ -231,11 +240,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.37",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.37/Kakeibo.ipa",
-      "size": 1020212,
-      "versionDate": "2026-11-07",
-      "versionDescription": "履歴の予定の欄を一番下に移しました"
+      "version": "1.38",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.38/Kakeibo.ipa",
+      "size": 1073351,
+      "versionDate": "2026-11-08",
+      "versionDescription": "月の予算、ふたり合計、カテゴリの追加と名前の変更を足しました。バックアップから戻すとデータが消える不具合と、レシートの読み違いを直しました。"
     }
   ],
   "news": []
