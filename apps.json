@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.40",
+          "buildVersion": "40",
+          "date": "2026-11-09",
+          "localizedDescription": "集計のカテゴリ別で、押した行と違うカテゴリが開き、戻っても集計に戻らない不具合を直しました。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.40/Kakeibo.ipa",
+          "size": 1075334,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.39",
           "buildVersion": "39",
           "date": "2026-11-09",
@@ -249,11 +258,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.39",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.39/Kakeibo.ipa",
-      "size": 1075578,
+      "version": "1.40",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.40/Kakeibo.ipa",
+      "size": 1075334,
       "versionDate": "2026-11-09",
-      "versionDescription": "支出の編集画面で、店名を×ボタンで一度に消せるようにしました。"
+      "versionDescription": "集計のカテゴリ別で、押した行と違うカテゴリが開き、戻っても集計に戻らない不具合を直しました。"
     }
   ],
   "news": []
