@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.41",
+          "buildVersion": "41",
+          "date": "2026-11-09",
+          "localizedDescription": "口座の引き落としの行を押すと、その回に引き落とされる支出の内訳が開くようにしました。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.41/Kakeibo.ipa",
+          "size": 1073890,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.40",
           "buildVersion": "40",
           "date": "2026-11-09",
@@ -258,11 +267,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.40",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.40/Kakeibo.ipa",
-      "size": 1075334,
+      "version": "1.41",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.41/Kakeibo.ipa",
+      "size": 1073890,
       "versionDate": "2026-11-09",
-      "versionDescription": "集計のカテゴリ別で、押した行と違うカテゴリが開き、戻っても集計に戻らない不具合を直しました。"
+      "versionDescription": "口座の引き落としの行を押すと、その回に引き落とされる支出の内訳が開くようにしました。"
     }
   ],
   "news": []
