@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.39",
+          "buildVersion": "39",
+          "date": "2026-11-09",
+          "localizedDescription": "支出の編集画面で、店名を×ボタンで一度に消せるようにしました。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.39/Kakeibo.ipa",
+          "size": 1075578,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.38",
           "buildVersion": "38",
           "date": "2026-11-08",
@@ -240,11 +249,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.38",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.38/Kakeibo.ipa",
-      "size": 1073351,
-      "versionDate": "2026-11-08",
-      "versionDescription": "月の予算、ふたり合計、カテゴリの追加と名前の変更を足しました。バックアップから戻すとデータが消える不具合と、レシートの読み違いを直しました。"
+      "version": "1.39",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.39/Kakeibo.ipa",
+      "size": 1075578,
+      "versionDate": "2026-11-09",
+      "versionDescription": "支出の編集画面で、店名を×ボタンで一度に消せるようにしました。"
     }
   ],
   "news": []
