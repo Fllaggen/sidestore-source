@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.42",
+          "buildVersion": "42",
+          "date": "2026-11-09",
+          "localizedDescription": "メルカリの購入メールを読むようにしました。アーカイブされたメールの利用通知も見つけます。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.42/Kakeibo.ipa",
+          "size": 1076764,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.41",
           "buildVersion": "41",
           "date": "2026-11-09",
@@ -267,11 +276,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.41",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.41/Kakeibo.ipa",
-      "size": 1073890,
+      "version": "1.42",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.42/Kakeibo.ipa",
+      "size": 1076764,
       "versionDate": "2026-11-09",
-      "versionDescription": "口座の引き落としの行を押すと、その回に引き落とされる支出の内訳が開くようにしました。"
+      "versionDescription": "メルカリの購入メールを読むようにしました。アーカイブされたメールの利用通知も見つけます。"
     }
   ],
   "news": []
