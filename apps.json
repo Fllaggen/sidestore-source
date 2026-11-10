@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.43",
+          "buildVersion": "43",
+          "date": "2026-11-10",
+          "localizedDescription": "メールの確認中に進み具合を出し、たまった利用通知を最後まで読み切るようにしました。失敗の理由は設定の「利用通知メール」に出ます。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.43/Kakeibo.ipa",
+          "size": 1099697,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.42",
           "buildVersion": "42",
           "date": "2026-11-09",
@@ -276,11 +285,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.42",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.42/Kakeibo.ipa",
-      "size": 1076764,
-      "versionDate": "2026-11-09",
-      "versionDescription": "メルカリの購入メールを読むようにしました。アーカイブされたメールの利用通知も見つけます。"
+      "version": "1.43",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.43/Kakeibo.ipa",
+      "size": 1099697,
+      "versionDate": "2026-11-10",
+      "versionDescription": "メールの確認中に進み具合を出し、たまった利用通知を最後まで読み切るようにしました。失敗の理由は設定の「利用通知メール」に出ます。"
     }
   ],
   "news": []
