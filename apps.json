@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.44",
+          "buildVersion": "44",
+          "date": "2026-11-10",
+          "localizedDescription": "アプリの色をアイコンの緑にそろえ、品目の負担を●◐○の印で見分けるようにしました。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.44/Kakeibo.ipa",
+          "size": 1102312,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.43",
           "buildVersion": "43",
           "date": "2026-11-10",
@@ -285,11 +294,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.43",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.43/Kakeibo.ipa",
-      "size": 1099697,
+      "version": "1.44",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.44/Kakeibo.ipa",
+      "size": 1102312,
       "versionDate": "2026-11-10",
-      "versionDescription": "メールの確認中に進み具合を出し、たまった利用通知を最後まで読み切るようにしました。失敗の理由は設定の「利用通知メール」に出ます。"
+      "versionDescription": "アプリの色をアイコンの緑にそろえ、品目の負担を●◐○の印で見分けるようにしました。"
     }
   ],
   "news": []
