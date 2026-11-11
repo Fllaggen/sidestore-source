@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.45",
+          "buildVersion": "45",
+          "date": "2026-11-11",
+          "localizedDescription": "続けて撮れるようにし、撮った直後に品目と負担を確かめられる札を出すようにしました。写真は編集画面で見比べられます。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.45/Kakeibo.ipa",
+          "size": 1176085,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.44",
           "buildVersion": "44",
           "date": "2026-11-10",
@@ -294,11 +303,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.44",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.44/Kakeibo.ipa",
-      "size": 1102312,
-      "versionDate": "2026-11-10",
-      "versionDescription": "アプリの色をアイコンの緑にそろえ、品目の負担を●◐○の印で見分けるようにしました。"
+      "version": "1.45",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.45/Kakeibo.ipa",
+      "size": 1176085,
+      "versionDate": "2026-11-11",
+      "versionDescription": "続けて撮れるようにし、撮った直後に品目と負担を確かめられる札を出すようにしました。写真は編集画面で見比べられます。"
     }
   ],
   "news": []
