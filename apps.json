@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.48",
+          "buildVersion": "48",
+          "date": "2026-11-11",
+          "localizedDescription": "友達や親の分を立て替えとして記録し、返ってきたら消せる",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.48/Kakeibo.ipa",
+          "size": 1298731,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.47",
           "buildVersion": "47",
           "date": "2026-11-11",
@@ -321,11 +330,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.47",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.47/Kakeibo.ipa",
-      "size": 1212789,
+      "version": "1.48",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.48/Kakeibo.ipa",
+      "size": 1298731,
       "versionDate": "2026-11-11",
-      "versionDescription": "未登録の利用を押すと、そのレシートを撮って通知に結び付けられる。通知と支出の照合に時刻も使う"
+      "versionDescription": "友達や親の分を立て替えとして記録し、返ってきたら消せる"
     }
   ],
   "news": []
