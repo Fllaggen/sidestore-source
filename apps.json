@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.46",
+          "buildVersion": "46",
+          "date": "2026-11-11",
+          "localizedDescription": "履歴を帳簿として作り直した。今月の数字と確認待ちを先頭にまとめ、明細を日ごとに区切った",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.46/Kakeibo.ipa",
+          "size": 1188869,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.45",
           "buildVersion": "45",
           "date": "2026-11-11",
@@ -303,11 +312,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.45",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.45/Kakeibo.ipa",
-      "size": 1176085,
+      "version": "1.46",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.46/Kakeibo.ipa",
+      "size": 1188869,
       "versionDate": "2026-11-11",
-      "versionDescription": "続けて撮れるようにし、撮った直後に品目と負担を確かめられる札を出すようにしました。写真は編集画面で見比べられます。"
+      "versionDescription": "履歴を帳簿として作り直した。今月の数字と確認待ちを先頭にまとめ、明細を日ごとに区切った"
     }
   ],
   "news": []
