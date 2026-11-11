@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.49",
+          "buildVersion": "49",
+          "date": "2026-11-12",
+          "localizedDescription": "立て替えから相手の名前をなくし、押して切り替える形にした",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.49/Kakeibo.ipa",
+          "size": 1279457,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.48",
           "buildVersion": "48",
           "date": "2026-11-11",
@@ -330,11 +339,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.48",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.48/Kakeibo.ipa",
-      "size": 1298731,
-      "versionDate": "2026-11-11",
-      "versionDescription": "友達や親の分を立て替えとして記録し、返ってきたら消せる"
+      "version": "1.49",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.49/Kakeibo.ipa",
+      "size": 1279457,
+      "versionDate": "2026-11-12",
+      "versionDescription": "立て替えから相手の名前をなくし、押して切り替える形にした"
     }
   ],
   "news": []
