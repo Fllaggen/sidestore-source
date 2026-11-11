@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.47",
+          "buildVersion": "47",
+          "date": "2026-11-11",
+          "localizedDescription": "未登録の利用を押すと、そのレシートを撮って通知に結び付けられる。通知と支出の照合に時刻も使う",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.47/Kakeibo.ipa",
+          "size": 1212789,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.46",
           "buildVersion": "46",
           "date": "2026-11-11",
@@ -312,11 +321,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.46",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.46/Kakeibo.ipa",
-      "size": 1188869,
+      "version": "1.47",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.47/Kakeibo.ipa",
+      "size": 1212789,
       "versionDate": "2026-11-11",
-      "versionDescription": "履歴を帳簿として作り直した。今月の数字と確認待ちを先頭にまとめ、明細を日ごとに区切った"
+      "versionDescription": "未登録の利用を押すと、そのレシートを撮って通知に結び付けられる。通知と支出の照合に時刻も使う"
     }
   ],
   "news": []
