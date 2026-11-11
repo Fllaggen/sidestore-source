@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.50",
+          "buildVersion": "50",
+          "date": "2026-11-12",
+          "localizedDescription": "立て替えの回収を、精算と同じ形にした",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.50/Kakeibo.ipa",
+          "size": 1289176,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.49",
           "buildVersion": "49",
           "date": "2026-11-12",
@@ -339,11 +348,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.49",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.49/Kakeibo.ipa",
-      "size": 1279457,
+      "version": "1.50",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.50/Kakeibo.ipa",
+      "size": 1289176,
       "versionDate": "2026-11-12",
-      "versionDescription": "立て替えから相手の名前をなくし、押して切り替える形にした"
+      "versionDescription": "立て替えの回収を、精算と同じ形にした"
     }
   ],
   "news": []
