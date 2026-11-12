@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.54",
+          "buildVersion": "54",
+          "date": "2026-11-13",
+          "localizedDescription": "画面を作り直しました。各画面の頭に一番知りたい額を大きく出し、支出の編集は店名と合計から始まります。撮影画面の右上に今月のクレカ利用額が出ます。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.54/Kakeibo.ipa",
+          "size": 1324962,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.53",
           "buildVersion": "53",
           "date": "2026-11-12",
@@ -375,11 +384,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.53",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.53/Kakeibo.ipa",
-      "size": 1305570,
-      "versionDate": "2026-11-12",
-      "versionDescription": "ロック画面の長方形のウィジェットで、クレカ利用の額が切れないようにした"
+      "version": "1.54",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.54/Kakeibo.ipa",
+      "size": 1324962,
+      "versionDate": "2026-11-13",
+      "versionDescription": "画面を作り直しました。各画面の頭に一番知りたい額を大きく出し、支出の編集は店名と合計から始まります。撮影画面の右上に今月のクレカ利用額が出ます。"
     }
   ],
   "news": []
