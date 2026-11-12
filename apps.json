@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.52",
+          "buildVersion": "52",
+          "date": "2026-11-12",
+          "localizedDescription": "帳簿の大きい数字を今月のクレカ利用額にし、使った額を升に出す。ロック画面のウィジェットを足した",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.52/Kakeibo.ipa",
+          "size": 1305192,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.51",
           "buildVersion": "51",
           "date": "2026-11-12",
@@ -357,11 +366,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.51",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.51/Kakeibo.ipa",
-      "size": 1294008,
+      "version": "1.52",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.52/Kakeibo.ipa",
+      "size": 1305192,
       "versionDate": "2026-11-12",
-      "versionDescription": "立て替えを文で送れる。写真を複数まとめて読み込める。立て替えは長押しから選ぶ形にし、画面を共通の部品で作り直した"
+      "versionDescription": "帳簿の大きい数字を今月のクレカ利用額にし、使った額を升に出す。ロック画面のウィジェットを足した"
     }
   ],
   "news": []
