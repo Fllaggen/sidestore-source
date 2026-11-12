@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.53",
+          "buildVersion": "53",
+          "date": "2026-11-12",
+          "localizedDescription": "ロック画面の長方形のウィジェットで、クレカ利用の額が切れないようにした",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.53/Kakeibo.ipa",
+          "size": 1305570,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.52",
           "buildVersion": "52",
           "date": "2026-11-12",
@@ -366,11 +375,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.52",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.52/Kakeibo.ipa",
-      "size": 1305192,
+      "version": "1.53",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.53/Kakeibo.ipa",
+      "size": 1305570,
       "versionDate": "2026-11-12",
-      "versionDescription": "帳簿の大きい数字を今月のクレカ利用額にし、使った額を升に出す。ロック画面のウィジェットを足した"
+      "versionDescription": "ロック画面の長方形のウィジェットで、クレカ利用の額が切れないようにした"
     }
   ],
   "news": []
