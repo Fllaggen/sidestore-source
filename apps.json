@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.51",
+          "buildVersion": "51",
+          "date": "2026-11-12",
+          "localizedDescription": "立て替えを文で送れる。写真を複数まとめて読み込める。立て替えは長押しから選ぶ形にし、画面を共通の部品で作り直した",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.51/Kakeibo.ipa",
+          "size": 1294008,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.50",
           "buildVersion": "50",
           "date": "2026-11-12",
@@ -348,11 +357,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.50",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.50/Kakeibo.ipa",
-      "size": 1289176,
+      "version": "1.51",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.51/Kakeibo.ipa",
+      "size": 1294008,
       "versionDate": "2026-11-12",
-      "versionDescription": "立て替えの回収を、精算と同じ形にした"
+      "versionDescription": "立て替えを文で送れる。写真を複数まとめて読み込める。立て替えは長押しから選ぶ形にし、画面を共通の部品で作り直した"
     }
   ],
   "news": []
