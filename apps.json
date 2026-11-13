@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.55",
+          "buildVersion": "55",
+          "date": "2026-11-14",
+          "localizedDescription": "撮ったレシートが金額の違う利用通知に結び付いたとき、同じ金額の通知が届いたら結び付け直します。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.55/Kakeibo.ipa",
+          "size": 1331142,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.54",
           "buildVersion": "54",
           "date": "2026-11-13",
@@ -384,11 +393,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.54",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.54/Kakeibo.ipa",
-      "size": 1324962,
-      "versionDate": "2026-11-13",
-      "versionDescription": "画面を作り直しました。各画面の頭に一番知りたい額を大きく出し、支出の編集は店名と合計から始まります。撮影画面の右上に今月のクレカ利用額が出ます。"
+      "version": "1.55",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.55/Kakeibo.ipa",
+      "size": 1331142,
+      "versionDate": "2026-11-14",
+      "versionDescription": "撮ったレシートが金額の違う利用通知に結び付いたとき、同じ金額の通知が届いたら結び付け直します。"
     }
   ],
   "news": []
