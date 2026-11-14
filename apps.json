@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.56",
+          "buildVersion": "56",
+          "date": "2026-11-14",
+          "localizedDescription": "撮影画面の通知の札を押すと、写真なしで記録できるようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.56/Kakeibo.ipa",
+          "size": 1333375,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.55",
           "buildVersion": "55",
           "date": "2026-11-14",
@@ -393,11 +402,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.55",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.55/Kakeibo.ipa",
-      "size": 1331142,
+      "version": "1.56",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.56/Kakeibo.ipa",
+      "size": 1333375,
       "versionDate": "2026-11-14",
-      "versionDescription": "撮ったレシートが金額の違う利用通知に結び付いたとき、同じ金額の通知が届いたら結び付け直します。"
+      "versionDescription": "撮影画面の通知の札を押すと、写真なしで記録できるようにしました"
     }
   ],
   "news": []
