@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.57",
+          "buildVersion": "57",
+          "date": "2026-11-16",
+          "localizedDescription": "ショートカットに「利用通知メールを確認」を追加しました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.57/Kakeibo.ipa",
+          "size": 1335350,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.56",
           "buildVersion": "56",
           "date": "2026-11-14",
@@ -402,11 +411,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.56",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.56/Kakeibo.ipa",
-      "size": 1333375,
-      "versionDate": "2026-11-14",
-      "versionDescription": "撮影画面の通知の札を押すと、写真なしで記録できるようにしました"
+      "version": "1.57",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.57/Kakeibo.ipa",
+      "size": 1335350,
+      "versionDate": "2026-11-16",
+      "versionDescription": "ショートカットに「利用通知メールを確認」を追加しました"
     }
   ],
   "news": []
