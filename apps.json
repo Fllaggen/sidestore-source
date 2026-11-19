@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.58",
+          "buildVersion": "58",
+          "date": "2026-11-19",
+          "localizedDescription": "店名・金額・日時から既に登録済みとみなせる利用通知を確認に出さないようにしました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.58/Kakeibo.ipa",
+          "size": 1343113,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.57",
           "buildVersion": "57",
           "date": "2026-11-16",
@@ -411,11 +420,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.57",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.57/Kakeibo.ipa",
-      "size": 1335350,
-      "versionDate": "2026-11-16",
-      "versionDescription": "ショートカットに「利用通知メールを確認」を追加しました"
+      "version": "1.58",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.58/Kakeibo.ipa",
+      "size": 1343113,
+      "versionDate": "2026-11-19",
+      "versionDescription": "店名・金額・日時から既に登録済みとみなせる利用通知を確認に出さないようにしました"
     }
   ],
   "news": []
