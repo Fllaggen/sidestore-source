@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.62",
+          "buildVersion": "62",
+          "date": "2026-11-25",
+          "localizedDescription": "精算の共有テキストを受け取る分・払う分で分けて見やすくし、帳簿の「予定」を「クレカ利用」の中に収納しました",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.62/Kakeibo.ipa",
+          "size": 1368567,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.61",
           "buildVersion": "61",
           "date": "2026-11-20",
@@ -447,11 +456,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.61",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.61/Kakeibo.ipa",
-      "size": 1354250,
-      "versionDate": "2026-11-20",
-      "versionDescription": "パートナー精算の共有テキストを日付の古い順にし、精算額だけのシンプルな表示にしました"
+      "version": "1.62",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.62/Kakeibo.ipa",
+      "size": 1368567,
+      "versionDate": "2026-11-25",
+      "versionDescription": "精算の共有テキストを受け取る分・払う分で分けて見やすくし、帳簿の「予定」を「クレカ利用」の中に収納しました"
     }
   ],
   "news": []
