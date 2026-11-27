@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.65",
+          "buildVersion": "65",
+          "date": "2026-11-27",
+          "localizedDescription": "ロック画面ウィジェットを Card と Cash の3行に変更。ウィジェットから引き落とし日を削除。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.65/Kakeibo.ipa",
+          "size": 1396493,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.64",
           "buildVersion": "64",
           "date": "2026-11-27",
@@ -474,11 +483,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.64",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.64/Kakeibo.ipa",
-      "size": 1405221,
+      "version": "1.65",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.65/Kakeibo.ipa",
+      "size": 1396493,
       "versionDate": "2026-11-27",
-      "versionDescription": "ウィジェットと口座・帳簿の説明的な文言を削ぎ落とし、ロック画面・ホーム画面ウィジェットの全サイズをiOS標準準拠のバランスに組み直しました。"
+      "versionDescription": "ロック画面ウィジェットを Card と Cash の3行に変更。ウィジェットから引き落とし日を削除。"
     }
   ],
   "news": []
