@@ -24,6 +24,15 @@
       },
       "versions": [
         {
+          "version": "1.63",
+          "buildVersion": "63",
+          "date": "2026-11-27",
+          "localizedDescription": "クレカで使える額と現金で使える額を口座画面・帳簿・ウィジェットに表示するようにし、ウィジェットをiOS標準準拠のレイアウトに刷新しました。",
+          "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.63/Kakeibo.ipa",
+          "size": 1396391,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.62",
           "buildVersion": "62",
           "date": "2026-11-25",
@@ -456,11 +465,11 @@
           "minOSVersion": "27.0"
         }
       ],
-      "version": "1.62",
-      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.62/Kakeibo.ipa",
-      "size": 1368567,
-      "versionDate": "2026-11-25",
-      "versionDescription": "精算の共有テキストを受け取る分・払う分で分けて見やすくし、帳簿の「予定」を「クレカ利用」の中に収納しました"
+      "version": "1.63",
+      "downloadURL": "https://github.com/Fllaggen/sidestore-source/releases/download/kakeibo-1.63/Kakeibo.ipa",
+      "size": 1396391,
+      "versionDate": "2026-11-27",
+      "versionDescription": "クレカで使える額と現金で使える額を口座画面・帳簿・ウィジェットに表示するようにし、ウィジェットをiOS標準準拠のレイアウトに刷新しました。"
     }
   ],
   "news": []
